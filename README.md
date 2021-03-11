@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### About me
-[Portfolio](https://gyuyoungcho.github.io/about/)
+#### My Git Blog and Portfolio
+[About me](https://gyuyoungcho.github.io/about/)
 
 ## 💻 Github Stats
 
