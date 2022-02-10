@@ -1,6 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Gyuyoungcho&fontSize=70&animation=twinkling)
 
 ## 🛠 Tech Stack
+
+<h3 align="center">🤖🖥️ Develop </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
+</p>
+
 <h3 align="center">🤖 Data / AI </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -17,28 +34,11 @@
 <img src="https://img.shields.io/badge/Object%20Detection-00D8E0?style=flat-square&logo=imagej&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🤖🖥️ Develop </h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
-</p>
-
 ## 🪄 My Content
 
 <p align="center">
-  <a href="https://gyuyoungcho.github.io/about/"><img src="https://img.shields.io/badge/About%20me-E4405F?style=flat-square&logo=Vimeo&logoColor=white&link=https://gyuyoungcho.github.io/about/"/></a>&nbsp
+  <a href="https://gyuyoungcho.github.io/about/"><img src="https://img.shields.io/badge/About%20me-00A98F?style=flat-square&logo=about.me&logoColor=white&link=https://gyuyoungcho.github.io/about/"/></a>&nbsp
   <a href="https://gyuyoungcho.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-c6dada?style=flat-square&logo=microsoft word&logoColor=white&link=https://gyuyoungcho.github.io/portfolio/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rbud613@gmail.com"/></a>
 </p>
 ## 💻 Github Stats
 
