@@ -2,7 +2,7 @@
 
 ## 🛠 Tech Stack
 
-<h3 align="center">🤖🖥️ Develop </h3>
+<h3 align="center">🖥️ Develop </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -41,7 +41,7 @@
   <a href="https://gyuyoungcho.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-c6dada?style=flat-square&logo=microsoft word&logoColor=white&link=https://gyuyoungcho.github.io/portfolio/"/></a>&nbsp
 </p>
 
-## 💻 Stats
+## 📊 Stats
 <div align='center'>
 <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=GyuYoungCho&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&text_color=fff&bg_color=10,7F7FD5,86A8E7,91eae4&icon_color=6DD5FA" /></a>
 <img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbud613">
