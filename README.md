@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Gyuyoungcho&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=91eae4&height=200&section=header&text=Gyuyoungcho&fontColor=fff0ff&fontSize=70&animation=twinkling)
 
 ## 🛠 Tech Stack
 
@@ -40,7 +40,11 @@
   <a href="https://gyuyoungcho.github.io/about/"><img src="https://img.shields.io/badge/About%20me-00A98F?style=flat-square&logo=about.me&logoColor=white&link=https://gyuyoungcho.github.io/about/"/></a>&nbsp
   <a href="https://gyuyoungcho.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-c6dada?style=flat-square&logo=microsoft word&logoColor=white&link=https://gyuyoungcho.github.io/portfolio/"/></a>&nbsp
 </p>
-## 💻 Github Stats
 
-![GyuYoung's github stats](https://github-readme-stats.vercel.app/api?username=GyuYoungCho&show_icons=true&theme=tokyonight)
+## 💻 Stats
+<div align='center'>
+<img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=GyuYoungCho&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&text_color=fff&bg_color=10,7F7FD5,86A8E7,91eae4&icon_color=6DD5FA" /></a>
+<img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbud613">
+</div>
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=91eae4)
